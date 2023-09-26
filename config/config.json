@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "CarWash",
+    "password": "CarWash#$%895#",
+    "database": "SI-CarWash",
+    "host": "142.44.161.115",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "CarWash",
+    "password": "CarWash#$%895#",
+    "database": "SI-CarWash",
+    "host": "142.44.161.115",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "CarWash",
+    "password": "CarWash#$%895#",
+    "database": "SI-CarWash",
+    "host": "142.44.161.115",
+    "dialect": "mysql"
+  }
+}
